@@ -1,1 +1,18 @@
+title: <p align="center"> Prayag Sanjay </p>
+logo: /assets/img/logo.png
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/prayags/">LinkedIn</a> |
+  <a href="https://github.com/prayag-s">GitHub</a>
+  
+  <br>   
+ I am working Senior Software Engineer at Infor India Ltd.
+ I specialize in C, C++, AIX etc.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
